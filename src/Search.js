@@ -6,7 +6,7 @@ const Search = () => {
   return (
     <>
       <div>
-        <h1>Sid Tech News</h1>
+        <h1>Tech Today</h1>
         <form onSubmit={(e) => e.preventDefault()}>
           <div>
             <input
